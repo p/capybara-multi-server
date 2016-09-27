@@ -1,5 +1,7 @@
 module Capybara
   module MultiServer
+    VERSION = '0.1.0'
+    
     def self.configuration
       @configuration ||= Configuration.new
     end
