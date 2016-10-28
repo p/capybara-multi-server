@@ -19,6 +19,12 @@ And then execute:
 
 ## Usage
 
+Define your servers:
+
+Then, make requests to either server:
+
+It is possible to configure the default request target:
+
 TODO: Write usage instructions here
 
 ## Contributing
